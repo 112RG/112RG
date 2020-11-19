@@ -1,4 +1,4 @@
-# Hello, folks! <img src="https://raw.githubusercontent.com/112RG/112RG/master/wave.gif" width="30px">
+# Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 My name is Rylee George and I'm a software developer that just wants to code all day. I'm from Australia and I love learning new technologies!
 
