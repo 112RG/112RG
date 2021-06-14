@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-My name is Rylee George and I'm a software developer that just wants to code all day. I'm from Australia and I love learning new things!
+My name is Rylee George and I'm a software developer from Australia. Mainly focusing on backend sometimes frontend but only when its me looking at it.
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
