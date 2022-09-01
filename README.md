@@ -23,7 +23,7 @@ My name is Rylee George and I'm a software developer from Australia. Mainly focu
 ## &#x1f4c8; GitHub Stats
 
 <a href="https://github.com/112RG/112RG">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=112RG&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=112RG&hide=java,html&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&exclude_repo=dotfiles" />
 </a>
 <a href="https://github.com/112RG/112RG">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=112RG&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
