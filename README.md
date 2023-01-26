@@ -5,6 +5,10 @@
 
 My name is Rylee George and I'm a software developer from Australia. Mainly focusing on backend sometimes frontend but only when its me looking at it.
 
+# Currently
+
+Currently learning Rust and working on Deaftone my free opensource music server to combat Subsonic!.
+
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
