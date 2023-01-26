@@ -31,11 +31,11 @@ My name is Rylee George and I'm a software developer from Australia. Mainly focu
   <img align="center" src="https://github-readme-stats-8isv-cwwfzer54-112rg.vercel.app/api?username=112RG&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Martin's GitHub Stats" />
 </a>
 
-<a href="https://github.com/112RG/GriefPreventionUtilities">
-  <img align="center" src="https://github-readme-stats-8isv-cwwfzer54-112rg.vercel.app/api/pin/?username=Ortygia&repo=Deaftone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Deaftone/Deaftone">
+  <img align="center" src="https://github-readme-stats-8isv-cwwfzer54-112rg.vercel.app/api/pin/?username=Deaftone&repo=Deaftone&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>
 
 
-<a href="https://github.com/112RG/Heimdall">
-  <img align="center" src="https://github-readme-stats-8isv-cwwfzer54-112rg.vercel.app/api/pin/?username=Ortygia&repo=Orpheus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
+<a href="https://github.com/Deaftone/Orpheus">
+  <img align="center" src="https://github-readme-stats-8isv-cwwfzer54-112rg.vercel.app/api/pin/?username=Deaftone&repo=Orpheus&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" />
 </a>    
