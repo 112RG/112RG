@@ -3,7 +3,7 @@
 
 # Hello, folks! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
-Hi there! I'm a 22-year-old Australian who loves coding in Rust and JS. I'm particularly fascinated by distributed systems and the challenges of building robust and scalable software. I'm a strong believer in the power of open source and love contributing to projects whenever I can. When I'm not coding, you can find me playing games or reading up on the latest tech news. I'm always eager to learn and enjoy pushing myself to tackle new challenges. Thanks for stopping by!
+Hi there! I'm a 23-year-old Australian who loves coding in Rust and JS. I'm particularly fascinated by distributed systems and the challenges of building robust and scalable software. I'm a strong believer in the power of open source and love contributing to projects whenever I can. When I'm not coding, you can find me playing games or reading up on the latest tech news. I'm always eager to learn and enjoy pushing myself to tackle new challenges. Thanks for stopping by!
 
 # Currently
 
