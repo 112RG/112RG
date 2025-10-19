@@ -7,10 +7,6 @@ Hi there! I'm a 25-year-old Australian passionate about coding in C# and JavaScr
 
 In my role as an application developer at an energy company in Australia, I focus on implementing software solutions for the energy market. My technical skills include MuleSoft (Anypoint Platform, CloudHub), webMethods Integration Server, C#, Git, and Linux. I also have experience with program creation, incident management (including incident command and investigation), software development, and strong problem-solving abilities.
 
-# Currently
-
-Currently learning Rust and working on Deaftone my free opensource music server to combat Subsonic!.
-
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
