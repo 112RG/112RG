@@ -9,8 +9,7 @@ In my role as an application developer at an energy company in Australia, I focu
 
 ## 🔧 Technologies & Tools
 
-![]([https://img.shields.io/badge/DB-SQLITE-informational?style=flat&logo=sqlite&logoColor=white&color=2bbc8a](https://go-skill-icons.vercel.app/api/icons?i=js,gleam,rust,linux,c,postgresql,mongodb,sqlite,golang))
-![](https://komarev.com/ghpvc/?username=112RG&color=2bbc8a)
+![](https://go-skill-icons.vercel.app/api/icons?i=js,gleam,rust,linux,c,postgresql,mongodb,sqlite,golang)
 
 ## &#x1f4c8; GitHub Stats
 
